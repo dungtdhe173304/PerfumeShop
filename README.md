@@ -40,10 +40,8 @@ The main project folder that for learning, practicing and taking assignment scor
 <img src="./Screenshot/2.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
 <img src="./Screenshot/3.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
 <img src="./Screenshot/4.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
-<img src="./Screenshot/5.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
 <img src="./Screenshot/6.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
 <img src="./Screenshot/7.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
-<img src="./Screenshot/8.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
 <img src="./Screenshot/9.JPG" style="border-radius:4%" width="30%" height="49%" />&nbsp;
 <img src="./Screenshot/10.JPG" style="border-radius:4%" width="30%" height="49%" />&nbsp;
 <img src="./Screenshot/11.JPG" style="border-radius:4%" width="30%" height="49%" />&nbsp;
