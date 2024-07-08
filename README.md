@@ -79,7 +79,6 @@ The main project folder that for learning, practicing and taking assignment scor
 - Netbeans 13
 - Java JDK 8
 - Apache Tomcat 10
-- Visual Studio Code
 - Microsoft SQL Server Management Studio 19
 - [Link download](https://drive.google.com/drive/folders/1toFgoC9UMHVrZcVbH9cGq7cHThea2S2E?usp=drive_link)
 
